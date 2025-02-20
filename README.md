@@ -1,32 +1,28 @@
-# Hi there, I'm Raghavendra Hiremath G 👋
-
 ## 👀 Interests
 I’m interested in:
-- [Topic 1] (e.g., Artificial Intelligence)
-- [Topic 2] (e.g., Open Source Projects)
-- [Topic 3] (e.g., Web Development)
+- 🚀 DevOps & Site Reliability Engineering (SRE)
+- 🛠️ Open Source Contributions
+- 🤖 AI & Machine Learning for Observability
+- ☁️ Cloud Computing (AWS, GCP, Azure)
+- 🏗️ Infrastructure as Code (Terraform, Ansible, Kubernetes)
 
 ## 🌱 Currently Learning
 I’m currently learning:
-- [Skill 1] (e.g., Machine Learning)
-- [Skill 2] (e.g., Advanced JavaScript)
-- [Skill 3] (e.g., Cloud Computing)
+- 📦 Kubernetes & Cloud-Native Technologies
+- 📜 Infrastructure as Code (Terraform, Terragrunt, Ansible)
+- 📊 AI for Observability & Incident Management (Retrieval-Augmented Generation, Llama 3.2, OpenSearch)
+- 🏭 MLOps for Automated Model Deployment
 
 ## 💞️ Collaboration
 I’m looking to collaborate on:
-- [Project Type] (e.g., AI and Data Science Projects)
-- [Technology] (e.g., React and Node.js Applications)
-- [Open Source Initiatives] (e.g., Contributions to Popular Repositories)
+- 🔍 AI-powered observability tools (LLMs, OpenSearch, Prometheus)
+- 🌐 Cloud infrastructure automation using Terraform & Kubernetes
+- 🏗️ Large-scale DevOps/SRE projects to optimize CI/CD workflows
+- 🖥️ AI Chatbots for knowledge management (Confluence, ServiceNow integrations)
+
 
 ## 📫 How to Reach Me
 You can reach me via:
-- [Email](mailto:raghavendrahiremathg@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/goldspyder/)
-
-## 😄 Pronouns
-My pronouns are: [He/Him, She/Her, They/Them, etc.]
-
-## ⚡ Fun Fact
-A fun fact about me: [Insert fun fact here, e.g., I once climbed a mountain in the Himalayas!]
-
-<!-- Add any additional sections or links you'd like here -->
+- 📧 [Email](mailto:raghavendrahiremathg@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/raghavendra-hiremath/)
+- 🏗️ [GitHub](https://github.com/raghavendrah25)
